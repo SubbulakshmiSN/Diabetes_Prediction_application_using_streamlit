@@ -1,0 +1,1 @@
+# Diabetes_Prediction_application_using_streamlit
