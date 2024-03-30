@@ -89,4 +89,4 @@ if select_page == "DiabetesPrediction":
                 st.warning(f"Sorry {name}! Based on the provided information, you are predicted to have diabetes",icon="🚨")
             else:
                 st.success(f"Congrats {name}! Based on the provided information, you are predicted to not have diabetes")
-
+                st.balloons()
